@@ -67,6 +67,6 @@
   
   - จบภาคการศึกษา: พักผ่อนหรือเรียนรู้เพิ่มเติม
 
-- URL งาน :
+- URL งาน : https://sintana11.github.io/6530250255.github.io/lifecycle
 
 
