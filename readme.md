@@ -2,4 +2,4 @@
   - ชื่อเล่น จ๊อบ
 
 
-![Alt text]()
+![Alt text](IMG_2517.jpeg)
