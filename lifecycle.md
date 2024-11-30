@@ -67,6 +67,7 @@
   
   - จบภาคการศึกษา: พักผ่อนหรือเรียนรู้เพิ่มเติม
 
-- URL งาน : https://sintana11.github.io/6530250255.github.io/lifecycle
+- URL งาน : [คลิกเพื่อดูงานของเพื่อน](https://sintana11.github.io/6530250255.github.io/lifecycle)
 
+- นายกษิดิช ผดุงศิลป์ 6530250328
 
